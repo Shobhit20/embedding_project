@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Ing relations",
+      "tensorShape": [
+        1368,
+        64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Shobhit20/embedding_project/master/output_vector.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Shobhit20/embedding_project/master/metadata.tsv"
+    }
+  ]
+}
